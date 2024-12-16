@@ -1,9 +1,9 @@
-import ProductItem from './ProductItem';
+import ProductList from './ProductList';
 
 function App() {
 	return (
 		<div className="App">
-			<ProductItem></ProductItem>
+			<ProductList></ProductList>
 		</div>
 	);
 }
